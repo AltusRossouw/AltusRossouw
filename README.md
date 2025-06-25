@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **IOT data logging**
 
-- 🌱 I’m currently learning **Swift and**
+- 🌱 I’m currently learning **Swift and SwiftUI**
 
 - 👯 I’m looking to collaborate on **Website design**
 
