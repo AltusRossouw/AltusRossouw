@@ -26,6 +26,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=altusrossouw&show_icons=true&theme=dark&locale=en&layout=compact" alt="altusrossouw" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altusrossouw&show_icons=true&theme=dark&locale=en" alt="altusrossouw" /></p>
+![](https://nirzak-streak-stats.vercel.app/?user=altusrossouw&theme=dark&hide_border=false)<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altusrossouw&theme=dark" alt="altusrossouw" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altusrossouw&show_icons=true&theme=dark&locale=en" alt="altusrossouw" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
