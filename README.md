@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **altusrossouw2@gmail.com**
   
-- 🌐 My website **altusrossouw.co.za**
+- 🌐 [**My website**](https://altusrossouw.co.za)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
