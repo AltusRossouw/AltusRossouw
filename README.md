@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **altusrossouw2@gmail.com**
   
-- 🌐 My website <a href="https://altusrossouw.co.za" target="_blank" rel="noopener noreferrer">altusrossouw.co.za</a>
+- 🌐 My website [altusrossouw.co.za](https://altusrossouw.co.za)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/altus-rossouw-92b234245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="altus rossouw" height="30" width="40" /></a>
