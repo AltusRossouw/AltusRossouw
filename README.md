@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **IoT data logging platforms and back-end integrations**
-- 🌱 I’m currently learning **Swift, SwiftUI, and advanced database systems**
+- 🌱 I’m currently learning **Swift, Rust, and advanced database systems**
 - 👯 I’m looking to collaborate on **scalable back-end solutions and API-driven projects**
 - 💬 Ask me about **C++, Python, Java, Node.js, or system architecture**
 - 📫 Reach me at **altusrossouw2@gmail.com**
