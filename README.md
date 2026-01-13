@@ -46,8 +46,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=altusrossouw&show_icons=true&theme=dark&locale=en" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=altusrossouw&show_icons=true&theme=dark&locale=en&layout=compact" height="180" alt="languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=altusrossouw&show_icons=true&theme=dark&locale=en" height="180" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=altusrossouw&show_icons=true&theme=dark&locale=en&layout=compact" height="180" alt="languages" />
 </div>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=altusrossouw&theme=dark&hide_border=false" height="180" alt="streak" />
